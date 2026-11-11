@@ -64,6 +64,10 @@ Ask AI to explain a command before running it, or to help interpret output after
 
 Use a disposable practice repository when experimenting with commands that change history or remove files. Read suggested commands before running them, especially if they use options you do not recognize.
 
+## Build a Python Snake game
+
+This repository also includes a small desktop Snake game in [`hello.py`](./hello.py). Follow the [three-prompt VS Code guide](./how-to-create-a-python-snake-game-in-3-prompts-in-vscode.md) to understand how its window, grid, movement, collisions, food, score, and keyboard controls fit together.
+
 ## Keep practicing
 
 Try a small change, inspect it with `git status`, stage only the file you intended, then create a commit. Repeat the same workflow on a branch and compare the results with `git log`.
