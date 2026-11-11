@@ -68,6 +68,8 @@ Use a disposable practice repository when experimenting with commands that chang
 
 This repository also includes a small desktop Snake game in [`hello.py`](./hello.py). Follow the [three-prompt VS Code guide](./how-to-create-a-python-snake-game-in-3-prompts-in-vscode.md) to understand how its window, grid, movement, collisions, food, score, and keyboard controls fit together.
 
+![Screenshot of the Python Snake game showing the score, snake, food, and keyboard controls](./assets/snake-game.png)
+
 ## Keep practicing
 
 Try a small change, inspect it with `git status`, stage only the file you intended, then create a commit. Repeat the same workflow on a branch and compare the results with `git log`.
